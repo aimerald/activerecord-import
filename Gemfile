@@ -54,4 +54,4 @@ else
   gem "test-unit"
 end
 
-eval_gemfile File.expand_path("../gemfiles/#{version}.gemfile", __FILE__)
+eval_gemfile File.expand_path("../gemfiles/4.2.gemfile", __FILE__)
